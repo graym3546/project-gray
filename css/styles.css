@@ -8,4 +8,10 @@
 body {
 	text-align: center;
 	font-family: verdana;
+	text-align: center;
+	margin: auto;
+}
+img {
+	margin: auto;
+	display: block;
 }
